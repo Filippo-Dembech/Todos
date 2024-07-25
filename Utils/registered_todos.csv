@@ -1,5 +1,1 @@
 "Id","Text","Category"
-"0","learn what PSModulePath environment variable is about","powershell"
-"1","understand why Start-SchedarioRecap doesn't work","schedario_mentale"
-"2","correggere vero/falso invece di true/false","powershell"
-"3","create CRI interviewer with ChatGPT","general_software"
